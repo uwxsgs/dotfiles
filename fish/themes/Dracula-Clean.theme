@@ -1,0 +1,41 @@
+# Dracula Clean Custom Theme
+# Modern, Muted, Matte, Clean
+
+# Syntax Highlighting Colors
+fish_color_normal f8f8f2
+fish_color_command f8f8f2
+fish_color_keyword bd93f9
+fish_color_quote e2e4e5
+fish_color_redirection f8f8f2
+fish_color_end f8f8f2
+fish_color_error ff5555
+fish_color_param b0b8c6
+fish_color_comment 6272a4
+fish_color_selection --background=44475a
+fish_color_search_match --background=44475a
+fish_color_operator f8f8f2
+fish_color_escape bd93f9
+fish_color_autosuggestion 6272a4
+fish_color_cancel ff5555 --reverse
+fish_color_option b0b8c6
+fish_color_history_current --bold
+fish_color_status ff5555
+fish_color_valid_path --underline
+
+# Default Prompt Colors
+fish_color_cwd bd93f9
+fish_color_cwd_root red
+fish_color_host f8f8f2
+fish_color_host_remote f8f8f2
+fish_color_user f8f8f2
+
+# Completion Pager Colors
+fish_pager_color_progress 6272a4
+fish_pager_color_background
+fish_pager_color_prefix f8f8f2
+fish_pager_color_completion f8f8f2
+fish_pager_color_description 6272a4
+fish_pager_color_selected_background --background=44475a
+fish_pager_color_selected_prefix f8f8f2
+fish_pager_color_selected_completion f8f8f2
+fish_pager_color_selected_description 6272a4
